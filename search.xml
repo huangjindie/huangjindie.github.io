@@ -1,75 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>骗郑莹莹的文档</title>
-    <url>/2022/10/27/%E4%B8%BA%E9%83%91%E8%8E%B9%E8%8E%B9%E5%86%99%E7%9A%84%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何骗郑莹莹"><a href="#如何骗郑莹莹" class="headerlink" title="如何骗郑莹莹"></a>如何骗郑莹莹</h1><span id="more"></span>
+    <title>Hello World</title>
+    <url>/2022/10/24/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
-<h2 id="骗郑莹莹第一步"><a href="#骗郑莹莹第一步" class="headerlink" title="骗郑莹莹第一步"></a>骗郑莹莹第一步</h2><!-- more -->
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 
-<blockquote>
-<p>找机会接近她，取得他的信任。  </p>
-</blockquote>
-<h2 id="骗郑莹莹第二步"><a href="#骗郑莹莹第二步" class="headerlink" title="骗郑莹莹第二步"></a>骗郑莹莹第二步</h2><!-- more -->
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 
-<blockquote>
-<p>用甜言蜜语，把她忽悠的晕头转向，迷失自我。  </p>
-</blockquote>
-<h2 id="骗郑莹莹第三步"><a href="#骗郑莹莹第三步" class="headerlink" title="骗郑莹莹第三步"></a>骗郑莹莹第三步</h2><!-- more -->
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
-<blockquote>
-<p>瞅准时机骗她出来，找个偏僻的地方，一砖头拍晕。  </p>
-</blockquote>
-<h2 id="骗郑莹莹第四步"><a href="#骗郑莹莹第四步" class="headerlink" title="骗郑莹莹第四步"></a>骗郑莹莹第四步</h2><!-- more -->
-
-<blockquote>
-<p>开始噶腰子不打麻药，砖头不丢，噶腰子期间疼醒了再用砖头拍晕。  </p>
-</blockquote>
-<h2 id="骗郑莹莹第五步"><a href="#骗郑莹莹第五步" class="headerlink" title="骗郑莹莹第五步"></a>骗郑莹莹第五步</h2><!-- more -->
-
-<blockquote>
-<p>噶完腰子，清理痕迹，赶紧逃跑。 </p>
-</blockquote>
-<h2 id="骗郑莹莹第六步"><a href="#骗郑莹莹第六步" class="headerlink" title="骗郑莹莹第六步"></a>骗郑莹莹第六步</h2><!-- more -->
-
-<blockquote>
-<p>找家医院，把腰子换成钱。</p>
-</blockquote>
-<h2 id="骗郑莹莹第七步-关键的一步"><a href="#骗郑莹莹第七步-关键的一步" class="headerlink" title="骗郑莹莹第七步  关键的一步"></a>骗郑莹莹第七步  关键的一步</h2><!-- more -->
-
-<blockquote>
-<h1 id="去苹果店买个苹果14-pro-max"><a href="#去苹果店买个苹果14-pro-max" class="headerlink" title="去苹果店买个苹果14 pro max"></a>去苹果店买个苹果14 pro max</h1></blockquote>
-<table>
-<thead>
-<tr>
-<th>第一步</th>
-<th>第二步</th>
-<th>第三步</th>
-<th>第四步</th>
-<th>第五步</th>
-<th>第六步</th>
-<th>第七步</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>接近</td>
-<td>哄骗</td>
-<td>找机会</td>
-<td>噶腰子</td>
-<td>请痕迹</td>
-<td>卖掉</td>
-<td>买手机</td>
-</tr>
-</tbody></table>
-<ul>
-<li>如果想避免悲剧的发生 除非郑莹莹叫我爸爸</li>
-</ul>
-<p>请莹莹酱点击下方链接<br>[名称]<a href="http://wode.dabaisha.shop/">http://wode.dabaisha.shop/</a>  </p>
-<hr>
-<hr>
-<hr>
-<hr>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1918650503&auto=1&height=66"></iframe>]]></content>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
   <entry>
     <title>我的第一篇博客文章</title>
@@ -110,22 +58,61 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/10/24/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>骗郑莹莹的文档</title>
+    <url>/2022/10/27/%E4%B8%BA%E9%83%91%E8%8E%B9%E8%8E%B9%E5%86%99%E7%9A%84%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何骗郑莹莹"><a href="#如何骗郑莹莹" class="headerlink" title="如何骗郑莹莹"></a>如何骗郑莹莹</h1><span id="more"></span>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
+<table>
+<thead>
+<tr>
+<th>第一步</th>
+<th>第二步</th>
+<th>第三步</th>
+<th>第四步</th>
+<th>第五步</th>
+<th>第六步</th>
+<th>第七步</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>接近</td>
+<td>哄骗</td>
+<td>找机会</td>
+<td>噶腰子</td>
+<td>清痕迹</td>
+<td>卖掉</td>
+<td>买手机</td>
+</tr>
+</tbody></table>
+<h2 id="骗郑莹莹第一步"><a href="#骗郑莹莹第一步" class="headerlink" title="骗郑莹莹第一步"></a>骗郑莹莹第一步</h2><blockquote>
+<p>找机会接近她，取得他的信任。  </p>
+</blockquote>
+<h2 id="骗郑莹莹第二步"><a href="#骗郑莹莹第二步" class="headerlink" title="骗郑莹莹第二步"></a>骗郑莹莹第二步</h2><blockquote>
+<p>用甜言蜜语，把她忽悠的晕头转向，迷失自我。  </p>
+</blockquote>
+<h2 id="骗郑莹莹第三步"><a href="#骗郑莹莹第三步" class="headerlink" title="骗郑莹莹第三步"></a>骗郑莹莹第三步</h2><blockquote>
+<p>瞅准时机骗她出来，找个偏僻的地方，一砖头拍晕。  </p>
+</blockquote>
+<h2 id="骗郑莹莹第四步"><a href="#骗郑莹莹第四步" class="headerlink" title="骗郑莹莹第四步"></a>骗郑莹莹第四步</h2><blockquote>
+<p>开始噶腰子不打麻药，砖头不丢，噶腰子期间疼醒了再用砖头拍晕。  </p>
+</blockquote>
+<h2 id="骗郑莹莹第五步"><a href="#骗郑莹莹第五步" class="headerlink" title="骗郑莹莹第五步"></a>骗郑莹莹第五步</h2><blockquote>
+<p>噶完腰子，清理痕迹，赶紧逃跑。 </p>
+</blockquote>
+<h2 id="骗郑莹莹第六步"><a href="#骗郑莹莹第六步" class="headerlink" title="骗郑莹莹第六步"></a>骗郑莹莹第六步</h2><blockquote>
+<p>找家医院，把腰子换成钱。</p>
+</blockquote>
+<h2 id="骗郑莹莹第七步-关键的一步"><a href="#骗郑莹莹第七步-关键的一步" class="headerlink" title="骗郑莹莹第七步  关键的一步"></a>骗郑莹莹第七步  关键的一步</h2><blockquote>
+<h1 id="去苹果店买个苹果14-pro-max"><a href="#去苹果店买个苹果14-pro-max" class="headerlink" title="去苹果店买个苹果14 pro max"></a>去苹果店买个苹果14 pro max</h1></blockquote>
+<ul>
+<li>如果想避免悲剧的发生 除非郑莹莹叫我爸爸</li>
+</ul>
+<p>请莹莹酱点击下方链接<br>[名称]<a href="http://wode.dabaisha.shop/">http://wode.dabaisha.shop/</a>  </p>
+<hr>
+<hr>
+<hr>
+<hr>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1918650503&auto=1&height=66"></iframe>]]></content>
   </entry>
 </search>
